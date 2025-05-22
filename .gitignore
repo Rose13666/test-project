@@ -1,0 +1,7 @@
+f4.txt
+*.py
+empty*
+null.txt
+*c.py
+!main.p
+!esas.py
